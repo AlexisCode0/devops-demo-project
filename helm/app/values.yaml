@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: AlexisCode0/ demo-java-app
+  repository: alexiscode/demo-java-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: V1.0
